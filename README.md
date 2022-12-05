@@ -1,2 +1,2 @@
-# exo5
+local
 cet exercice c'est génial !
